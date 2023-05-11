@@ -1,5 +1,5 @@
 import csv
-
+"gsdfhsvdhcxhdbvjhbjxfhbxbb"
 with open("times.txt", "r") as file:
     data = file.read()
     data = data.replace("[","").replace("]","").split(", ")
